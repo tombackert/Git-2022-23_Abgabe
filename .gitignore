@@ -1,2 +1,3 @@
 /task/*.log
 /task/*.aux
+.DS_Store
